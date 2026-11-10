@@ -1,12 +1,12 @@
-Python Projects Portfolio
+# Python Projects Portfolio
 
-Author: Goutham Reddy
+**Author:** Goutham Reddy
 
 Welcome to my Python Projects Repository!
 
 This repository contains Python projects and programming exercises developed while learning Python programming, data structures, algorithms, and application development.
 
-Technologies Used:
+## Technologies Used
 
 - Python 3
 - Data Structures and Algorithms
